@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${your.username}.{$your.repo.id})
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Zer0zzy.Zer0zzy)
 
 <!--
 **Zer0zzy/Zer0zzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
